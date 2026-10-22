@@ -82,7 +82,7 @@ The following hosted platforms provide fully managed vector search, neural ranki
 
 ## 💻 Open-Source GitHub Projects
 
-Curated open-source projects for self-hosted semantic search, vector storage, dense embeddings, and composable retrieval pipelines. Sorted in descending order by **GitHub Stars count**.
+Curated open-source projects for self-hosted semantic search, vector storage, dense embeddings, and composable retrieval pipelines. Sorted in descending order by **GitHub_Stars_Count**.
 
 ### 1. 🔍 [Elasticsearch](https://github.com/elastic/elasticsearch) [![Stars](https://img.shields.io/github/stars/elastic/elasticsearch?style=social&color=white)](https://github.com/elastic/elasticsearch/stargazers)
 * **License**: SSPL / Elastic License 2.0 | **Primary Language**: Java
@@ -226,7 +226,7 @@ Contributions are warmly welcomed! Help make this ecosystem resource the most us
 3. 📝 **Add your entry** under the appropriate section following the established format:
    - Name & Official Link
    - License & Primary Language
-   - Star Badge (with `style=social&color=white` linking to `/stargazers`)
+   - Stars_Badge (with `style=social&color=white` linking to `/stargazers`)
    - 2-3 sentence technical summary emphasizing architecture and tradeoffs
    - "Best For" guidance
 4. 📬 **Submit a Pull Request** with a descriptive summary of why the tool belongs in this list.
